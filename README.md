@@ -27,7 +27,7 @@ cd IGARSS2022_LeveeCrackDetection
 ```
 conda create -n gpu-tf tensorflow-gpu
 conda activate gpu-tf
-source installEnvironment.sh
+source installPackages.sh
 
 ```
 
